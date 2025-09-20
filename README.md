@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+| 프로젝트명                 | 기간             | 사용기술                              | 설명                                                                                    |
+| --------------------- | -------------- | ------------------------------------- | --------------------------------------------- |
+| 다솜 (노인 돌봄 지원 앱)       | 2025.03 \~ 06 | React Native, Spring Boot, FCM, MySQL | 보호자 중심의 일정 관리, 감정/건강 상태 기록, 알림 기능을 제공하는 모바일 앱 (https://github.com/your-repo) |
+| Slot Machine Game     | 2024.11        | Java, Swing                           | 슬롯머신 게임 + 사용자 데이터 기록/저장 기능 구현            
+
+
 <!--
 **jaewon3640/jaewon3640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
