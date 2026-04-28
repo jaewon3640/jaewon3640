@@ -30,8 +30,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewon0009)](https://solved.ac/jaewon0009)
-
 ---
 
 ## 📌 Projects
