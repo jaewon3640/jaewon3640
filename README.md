@@ -36,7 +36,7 @@
  
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Sudoku App](https://github.com/jaewon3640/Advance-Capstone-Backend/tree/develop)** | 데이터 기반 객관성 지표 제공을 통한 정보 판단력 강화 플랫폼 | Spring Boot · AWS · Docker · Prompt Engineering|
-| **[RecycleMap](https://github.com/jaewon3640/RecycleMap_backend))** | 지역별 분리수거 정보를 제공하는 백엔드 서비스 | Spring Boot · Redis · AWS· Docker |
+| **[NewsLens](https://github.com/jaewon3640/Advance-Capstone-Backend/tree/develop)** | 데이터 기반 객관성 지표 제공을 통한 정보 판단력 강화 플랫폼 | Spring Boot · AWS · Docker · Prompt Engineering|
+| **[RecycleMap](https://github.com/jaewon3640/RecycleMap_backend)** | 지역별 분리수거 정보를 제공하는 백엔드 서비스 | Spring Boot · Redis · AWS· Docker |
 | **[Mood Food](https://github.com/jaewon3640/Opensource-Project-Backend)** | 사용자의 음식 성향을 분석하여 맛집을 추천해주는 서비스 | Spring Boot · Docker · MySQL|
 | **[Dasom](https://github.com/jaewon3640/-2025-1-Capstone-back-)** | 보호자를 위한 돌봄 지원 애플리케이션 | Spring Boot · MySQL |
